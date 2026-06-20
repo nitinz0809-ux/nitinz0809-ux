@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Nitin Patel 👋
 
-<!--
-**nitinz0809-ux/nitinz0809-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE CSE Student
 
-Here are some ideas to get you started:
+💻 Learning:
+- Java
+- C++
+- Web Development
+- AI & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current Projects:
+- BuildLab Website
+- NexaSoul Community
+- Java Practice Projects
+
+🛠 Tech Stack:
+Java • C++ • HTML • CSS • JavaScript • Git • GitHub
+
+📫 Connect with me:
+LinkedIn (Add your link here)
