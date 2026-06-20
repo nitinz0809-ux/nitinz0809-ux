@@ -12,6 +12,8 @@
 
 - 🚀 BuildLab Website
 
+- 📊 Sorting Algorithm Visualizer
+
 🛠 Tech Stack:
 Java • C++ • HTML • CSS • JavaScript • Git • GitHub
 
