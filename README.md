@@ -17,4 +17,4 @@
 Java • C++ • HTML • CSS • JavaScript • Git • GitHub
 
 📫 Connect with me:
-LinkedIn (Add your link here)
+LinkedIn (https://www.linkedin.com/in/nitin-patel-0a9158320/)
