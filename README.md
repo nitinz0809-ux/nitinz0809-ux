@@ -18,7 +18,7 @@
 Java • C++ • HTML • CSS • JavaScript • Git • GitHub
 
 📫 Connect with me:
-LinkedIn (https://www.linkedin.com/in/nitin-patel-0a9158320/)
+LinkedIn (https://www.linkedin.com/in/nitinpatel-cse/)
 ## GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=nitinz0809-ux&show_icons=true)
